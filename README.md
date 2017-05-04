@@ -1,7 +1,7 @@
 # git-demo
-learing GIT braching
-create branch foo 
-chekout branch foo
-do some commit
-merge with master
-done !!!
+<ol>learing GIT braching</ol>
+<ol>create branch foo </ol>
+<ol>chekout branch foo</ol>
+<ol>do some commit</ol>
+<ol>merge with master</ol>
+<ol>done !!!</ol>
