@@ -5,3 +5,4 @@
 <ol># do some commit</ol>
 <ol># merge with master</ol>
 <ol># done !!!</ol>
+changed file 
