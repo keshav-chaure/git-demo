@@ -15,5 +15,6 @@ onother change in file
 5. another changes in upstream file.
 6. some changes more
 7. some changes from local
+8. more changes local
 
 
