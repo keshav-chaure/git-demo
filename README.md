@@ -17,5 +17,6 @@ onother change in file
 7. some changes from local
 8. more changes local
 9. ok some change in code by other user
+10. chaged by me from file on local machine
 
 
